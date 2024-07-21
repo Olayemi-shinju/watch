@@ -1,0 +1,1472 @@
+*{
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+}
+.img{
+    width: 20px;
+}
+.nav_1{
+    padding: 15px;
+    display: flex;
+    background-color: black;
+    color: white;
+    font-size: 13px;
+    gap: 30px;
+    justify-content: center;
+    list-style: none;
+}
+.color{
+    color: white;
+}
+.text ul{
+    display: flex;
+    gap: 30px;
+    padding-right: 60px;
+    margin-top: 30px;
+    list-style: none;
+}
+.search{
+    height: 20px;
+    background-color: black;
+}
+.nav_2{
+    display: flex;
+    background-color:white;
+    padding-left: 100px;
+}
+.img_4{
+    width: 50px;
+    padding-left: 15px;
+}
+.img_5{
+    padding-left: 30px;
+}
+.img_5b{
+    width: 83px;
+}
+.in{
+    text-align: center;
+    color: red;
+}
+.img_6{
+    width: 83px;
+    padding-left: 10px;
+}
+.note{
+    padding-left: 20px;
+}
+.img_7{
+    height: 65px;
+    padding-left: 19px;
+}
+.sub{
+    padding-left: 20px;
+}
+.img_8{
+    height: 60px;
+    width: 35px;
+    padding-left: 15px;
+}
+.mini{
+    font-size: 15px;
+    padding-top: 5px;
+
+}
+.img_9{
+    padding-left: 60px;
+}
+.img_10{
+    padding-left: 40px;
+}
+.img_3{
+    width: 35px;
+    padding-left: 30px;
+}
+.img_12{
+    width: 35px;
+    padding-left: 90px;
+}
+.one{
+    color: blue;
+}
+.img_13{
+    padding-left: 60px;
+}
+.nav_3{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
+.book{
+    color: blue;
+}
+.nav_4{
+    padding-top: 60px;
+    list-style: none;
+    text-align: center;
+    gap: 5px;
+
+}
+.boy{
+
+    color: red;
+}
+.log{
+    font-size: 20px;
+}
+.cos{
+    font-size: 40px;
+}
+.tan{
+    font-size: 10px;
+}
+.dog{
+    border-radius: 35%;
+    border-color: blue;
+    background-color: blue;   
+}
+.go{
+    color: white;
+}
+.sine{
+    color: blue;
+}
+.nav_5{
+    width: 800px;
+    padding-left: 130px;
+    padding-top: 30px;
+}
+.fog{
+    padding-top: 100px;
+    font-size: 40px;
+   padding-left: 220px;
+}
+.head{
+    padding-top: 70px;
+    display: flex;
+    list-style: none;
+    gap: 60px;
+    font-size: 20px;
+    padding-left: 350px;
+
+}
+.off{
+    color: gray
+}
+.nav_6{
+    padding-bottom: 90px;
+    padding-left: 200px;
+    background-color: whitesmoke;
+    margin-top: 60px;
+    margin: 20px;
+}
+.post{
+    text-align: center;
+}
+.nam_1{
+    display: flex;
+    gap: 20px;
+}
+.say{
+    margin-top: 30px;
+    padding-left: 70px;
+}
+.hot{
+    font-size: 23px;
+}
+.mon{
+    margin-top: 13px;
+    font-size: 10px;
+    padding-left: 25px;
+}
+.cow{
+    margin-top: 10px;
+    margin-left: 30px;
+    border-radius: 35%;
+    background-color: blue;
+    border-color: blue;
+    border-width: 5px;
+}
+.jav{
+    padding-left: 10px;
+    color: blue;
+}
+.jug{
+    margin-top: 60px;
+    padding-left: 90px;
+}
+.under{
+    font-size: 10px;
+    padding-left: 10px;
+}
+.war{
+    padding-top: 40px;
+    margin-left: 90px;
+}
+.nom{
+    font-size: 20px;
+}
+.cal{
+    padding-left: 90px;
+    margin-top: 30px;
+}
+.eig{
+    font-size: 20px;
+}
+.ten{
+    font-size: 10px;
+    padding-left: 10px;
+}
+.img{
+    margin-top: 30px;
+    padding-left: 90px;
+}
+.pas{
+    padding-left: 50px;
+}
+.pop{
+    margin-top: 30px;
+    padding-left: 100px;
+    font-size: 20px;
+}
+.pi{
+    padding-left: 40px;
+}
+.numb{
+    margin-top: 30px;
+    padding-left: 100px;
+    font-size: 20px;
+}
+.dis{
+    padding-left: 80px;
+}
+.battery{
+    margin-top: 30px;
+    padding-left: 90px;
+}
+.write{
+    font-size: 15px;
+    padding-left: 50px;
+}
+.camera{
+    margin-top: 30px;
+    padding-left: 90px;
+}
+.time{
+    padding-left: 40px;
+    font-size: 15px;
+}
+.sea{
+    font-size: 20px;
+    padding-left: 90px;
+    margin-top: 30px;
+}
+.wet{
+    padding-left: 90px;
+    font-size: 15px;
+}
+.touch{
+    padding-left: 90px;
+    margin-top: 30px;
+}
+.Id{
+    padding-left: 90px;
+    font-size: 15px;
+}
+.sai{
+    padding-left: 80px;
+}
+.nab_1{
+    gap: 20px;
+}
+.ford{
+    padding-top: 70px;
+    padding-right: 140px;
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
+.models{
+    color: blue;
+}
+.shop{
+    color: blue;
+}
+.nav_7{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: whitesmoke;
+    margin: 15px;
+}
+.sak{
+    width: 400px;
+    padding-left: 2px;
+    margin-top: 2px;
+}
+.ayo{
+    font-size: 20px;
+    padding-top: 40px;
+    text-align: center;
+    padding-right: 300px;
+}
+.part{
+    padding-top: 20px;
+    font-size: 15px;
+    color: blue;
+}
+.nav_8{
+    display: flex;
+}
+.bad{
+    font-size: 35px;
+    padding-left: 250px;
+}
+.gog{
+    padding-top: 20px;
+    height: 700px;
+    padding-left: 5px;
+}
+.good{
+    font-size: 30px;
+    padding-left: 250px;
+}
+.flog{
+    border-radius: 30%;
+    border-color: blue;
+    background-color: blue;
+    margin-left: 300px;
+}
+.lob{
+    padding-left: 300px;
+}
+.saku{
+    background-color: whitesmoke;
+    width: 51%;
+    margin-left: 15px;
+    height: 450px;
+}
+.mak{
+    background-color: whitesmoke;
+    width: 45%;
+    margin-left: 25px;
+    height: 450px;
+}
+.bar{
+    width: 30px;
+    padding-top: 40px;
+    padding-left: 90px;
+}
+.lab{
+    padding-left: 250px
+}
+.net{
+    font-size: 25px;
+    padding-left: 200px;
+}
+.nod{
+    font-size: 30px;
+    padding-left: 250px;
+}
+.lod{
+    padding-left: 150px;
+}
+.lue{
+    color: blue;
+    font-size: 11px;
+    padding-left: 260px;
+}
+
+.nav_9{
+   
+   display: flex;
+   justify-content: center;
+   gap: 200px;
+   padding-top: 60px;
+}
+.get{
+    width: 70px;
+}
+.fred{
+    padding-top: 50px;
+    padding-left: 80px;
+    width: 15px;
+}
+.too{
+    padding-left: 60px;
+}
+.keg{
+    padding-left: 30px;
+}
+.faw{
+    padding-left: 60px;
+}
+.maw{
+    color: blue;
+    padding-left: 40px;
+    padding-top: 10px;
+}
+.frad{
+    width: 10px;
+    padding-top: 5px;
+    padding-left: 80px;
+}
+.paw{
+    padding-right: 30px;
+}
+.kaw{
+    padding-left: 30px;
+}
+.few{
+    padding-left: 50px;
+}
+.hew{
+    padding-left: 30px;
+}
+.maw{
+    padding-left: 90px;
+}
+.edit{
+    padding-top: 70px;
+    font-size: 40px;
+    text-align: center;
+}
+.cha{
+    margin-top: 40px;
+    background-color: whitesmoke;
+    background-size: 50%;
+    width: 38.5%;
+    height: 500px;
+}
+.nav_10{
+    padding-left: 150px;
+}
+.tenta{
+    display: flex;
+    gap: 70px;
+}
+.luid{
+    padding-top: 30px;
+}
+.crud{
+    padding-left: 200px;
+}
+.cud{
+    font-size: 30px;
+    padding-left: 150px;
+}
+.bod{
+    font-size: 25px;
+    padding-left: 180px;
+}
+.bud{
+    color: blue;
+    padding-left: 250px;
+}
+.dron{
+    font-size: 20px;
+    padding-left: 200px;
+}
+.loe{
+    color: blue;
+    padding-left: 210px;
+}
+.fud{
+    padding-top: 20px;
+    height: 300px;
+    width: 450px;
+}
+
+.nav_11{
+    background-image: url(images/moneterey.jpg);
+    margin: 30px;
+    height: 230px;
+    text-align: center;
+    padding-top: 280px;
+    background-repeat: no-repeat;
+}
+.zara{
+    color: white;
+    text-align: center;
+}
+.nuru{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+.hid{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding-top: 20px;
+}
+.dat{
+    color: white;
+}
+.cove{
+    color: white;
+}
+.nav_12{
+    background-color: whitesmoke;
+    padding-top: 40px;
+    margin: 27px;
+    height: 800px;
+}
+.kpk{
+    text-align: center;
+}
+.saka{
+    font-size: 30px;
+}
+.power{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-top: 50px;
+}
+.by{
+    color: grey;
+}
+.he{
+    color: grey;
+}
+.it{
+    color: grey;
+}
+.we{
+    color: grey;
+}
+.if{
+    color: gray;
+}
+.so{
+    color: gray;
+}
+.vic{
+    text-align: center;
+    padding-top: 30px;
+}
+.emma{
+    color: blue;
+    padding-top: 15px;
+}
+.mat{
+    padding-top: 30px;
+    padding-left: 350px;
+}
+.nav_13{
+    background-color: whitesmoke;
+    margin: 23px;
+    height: 800px;
+    padding-top: 30px;
+}
+.fan{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding-top: 30px;
+}
+.main{
+    color: grey;
+}
+.final{
+    color: grey;
+}
+.motion{
+    color: grey;
+}
+.compress{
+    color: grey;
+}
+.logic{
+    padding-top: 30px;
+    padding-left: 150px;
+    height: 400px;
+    
+}
+.hex{
+    color: blue;
+}
+.har{
+    color: blue;
+}
+.bott{
+    padding-top: 100px;
+    padding-left: 350px;
+}
+
+.nav_14{
+    margin: 20px;
+}
+.lumi{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+.filly{
+    background-color: whitesmoke;
+    width: 55%;
+    height: 350px;
+    margin-left: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+.sign{
+    color: blue;
+}
+.photo{
+    width: 650px;
+    padding-top: 20px;
+    padding-right: 10px;
+    height: 360px;
+}
+.prop{
+    display: flex;
+    height: 400px;
+}
+.shet{
+    padding-top: 150px;
+    gap: 20px;
+}
+.Virtual{
+    font-size: 30px;
+}
+.sign{
+    color: blue;
+}
+.nav_15{
+    background-color: whitesmoke;
+    width: 96%;
+    margin: 20px;
+    padding-right: 20px;
+}
+.atom{
+    display: flex;
+    gap: 30px;
+}
+.idea{
+    width: 500px;
+    padding-top: 80px;
+    padding-left: 100px;
+}
+.mecury{
+    padding-top: 100px;
+    padding-left: 150px;
+}
+.venus{
+    padding-top: 30px;
+    padding-left: 15px;
+}
+.mars{
+    padding-left: 30px;
+}
+.neptune{
+    padding-top: 20px;
+    padding-left: 50px;
+    display: flex;
+    gap: 20px;
+    color: blue;
+}
+.tot{
+    display: flex;
+    gap: 10px;
+}
+.ject{
+    background-color: black;
+    width: 50%;
+    margin: 20px;
+    height: 600px;
+ 
+}
+.cheng{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+
+}
+.lucy{
+    color: blue;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 10px;
+}
+.tv{
+    width: 40px;
+    padding-top: 40px;
+}
+.pillow{
+    padding-left: 250px;
+    display: flex;
+}
+.fang{
+    padding-top: 40px;
+    font-size: 40px;
+    color: white;
+}
+.victory{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+
+}
+.bug{
+   height: 110px;
+   padding-left: 10px;
+   padding-top: 200px;
+}
+.bug_2{
+    height: 110px;
+    padding-left: 10px;
+    padding-top: 200px;
+ 
+}
+.bug_3{
+    height: 110px;
+    padding-left: 10px;
+    padding-top: 200px;
+}
+.victor{
+    padding-bottom: 400px;
+    padding-left: 50px;
+}
+.kid_1{
+    height: 110px;
+    padding-bottom: 150px;
+}
+.kid_2{
+    height: 110px;
+    padding-bottom: 150px;
+}
+.kid_3{
+    height: 110px;
+    padding-left: 15px;
+    padding-bottom: 150px;
+}
+.pay{
+    background-color: whitesmoke;
+    width: 40%;
+    height: 620px;
+}
+.tab{
+    width: 200px;
+    padding-top: 100px;
+    padding-left: 180px;
+}
+.tele{
+   padding-top: 50px;
+}
+.ram{
+    text-align: center;
+}
+.lone{
+    color: blue;
+    text-decoration: underline blue;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.sock{
+    text-align: center;
+    padding-top: 40px;
+}
+.ket{
+    display: flex;
+    color: blue;
+    gap: 20px;
+    justify-content: center;
+    padding-top: 20px;
+}
+.tola{
+    display: flex;
+    gap: 10px;
+}
+.arcade{
+    margin-left: 20px;
+    background-color: whitesmoke;
+    width: 50%;
+    height: 600px;
+    background-size: 300px;
+}
+.charm{
+    background-image: url(images/apple_news_plus.jpg);
+    width: 50%;
+    height: 600px;
+    margin-right: 20px;
+    text-align: center;
+}
+.cost{
+    color: white;
+    font-size: 40px;
+    padding-top: 40px;
+}
+.chidori{
+    color: white;
+    padding-top: 20px;
+    font-weight: 10px;
+}
+.chin{
+    color: white;
+    padding-top: 10px;
+}
+.rasengan{
+    color: white;
+    padding-top: 30px;
+}
+.konoha{
+    display: flex;
+    justify-content: center;
+    gap: 20px;                                              
+}
+.kabuto{
+    display: flex;
+    background-color: whitesmoke;
+    margin: 20px;
+}
+.pady{
+    padding-left: 250px;
+    width: 60%;
+    height: 330px;
+}
+.tyler{
+    padding-left: 80px;
+}
+.lily{
+    font-size: 25px;
+    padding-top: 130px;
+    padding-left: 20px;
+}
+.kate{
+    font: bold;
+}
+.peren{
+    padding-left: 20px;
+    display: flex;
+    color: blue;
+    gap: 20px;
+    padding-top: 20px;
+}
+.bore{
+    background-image: url(images/apple_at_work.jpg);
+    width: 97%;
+    height: 300px;
+    margin: 20px;
+    text-align: center;
+    color: white;
+    padding-top: 250px;
+    background-repeat: no-repeat;
+}
+.sumire{
+    font-size: 40px;
+    padding-bottom: 15px;
+}
+.haku{
+    padding-top: 15px;
+}
+.hima{
+    padding-top: 7px;
+}
+.nora{
+    background-image: url(images/education.jpg);
+    width: 97%;
+    height: 400px;
+    margin-left: 20px;
+    text-align: center;
+    color: white;
+    padding-top: 250px;
+    background-repeat: no-repeat;
+    
+}
+.favor{
+    background-color: whitesmoke;
+    margin: 20px;
+    width: 97%;
+    height: 1750px;
+}
+.raw{
+    font-size: 13px;
+    padding-left: 180px;
+    padding-top: 20px;
+}
+.behind> ol{
+   padding-top: 30px;
+   padding-left: 170px;
+   font-size: 14px;
+}
+.pius{
+    padding-left: 170px;
+    padding-top: 20px;
+    font-size: 14px;
+}
+.ware{
+    padding-top: 10px;
+    padding-left: 170px;
+    font-size: 14px;
+}
+.line{
+    margin-top: 60px;
+    width: 90%;
+    margin-left: 60px;
+}
+.nude{
+    display: flex;
+    gap: 60px;
+}
+.lax{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.ark{
+    width: 15px;
+    padding-top: 20px;
+    padding-left: 60px;
+}
+.toy{
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.ride{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.food{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.access{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.lads{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.unit{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.arm{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.mickey{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.andro{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.media{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.radio{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.planetary{
+    display: flex;
+    gap: 30px;
+}
+.birtue{
+    padding-left: 60px;
+    padding-top: 15px;
+}
+.account{
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 25px;
+}
+.clouds{
+    padding-left: 60px;
+}
+.fanta{
+    padding-top:30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.rear{
+    padding-top: 15px;
+}
+.coke{
+    padding-top: 30px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.bits{
+    color: blue;
+}
+.ranger{
+    padding-top: 40px;
+    padding-left: 60px;
+}
+.lane{
+    margin-top: 10px;
+    width: 90%;
+    margin-left: 60px;
+}
+.copy{
+    padding-left: 60px;
+}
+.run{
+    padding-left: 240px;
+}
+.end{
+    padding-top: 10px;
+    display: flex;
+    gap: 30px;
+}
+
+
+.view{
+    padding-left: 20px;
+}
+.hatch{
+    padding-left: 15px;
+}
+.water{
+    padding-left: 15px;
+}
+.cent{
+    padding-left: 20px;
+}
+.egg{
+    padding-left: 30px;
+}
+.nike{
+    padding-left: 35px;
+}
+.astro{
+    width: 25px;
+    padding-left: 45px;
+}
+.long{
+    width: 38px;
+    padding-left: 45px;
+}
+.many{
+    padding-left: 30px;
+}
+.don{
+    padding-left: 45px;
+}
+.preted{
+    padding-left: 45px;
+}
+.mani{
+    padding-left: 30px;
+}
+.studio{
+    padding-left: 50px;
+}
+.bands{
+    width: 20px;
+    height: 55px;
+}
+.accessories{
+    padding-left: 20px;
+    width: 53px;
+}
+.fair{
+    padding-left: 50px;
+    width: 35px;
+}
+.fits{
+    padding-left: 35px;
+}
+.troat{
+    width: 35px;
+    padding-left: 25px;
+}
+.firness{
+    padding-left: 20px;
+}
+.nav_2b{
+    display: flex;
+    background-color:white;
+    padding-left: 60px;
+}
+.trot{
+    width: 50px;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+.ground{
+    background-color: whitesmoke;
+    margin-top: 20px;
+    height: 1680px;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.we{
+    color: red;
+    padding-top: 40px;
+}
+.danzo{
+    padding-top: 20px;
+    font-size: 30px;
+}
+.dollar{
+    font-size: 10px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+}
+.coco{
+    display: flex;
+    gap: 20px;
+    padding-top: 15px;
+    color: blue;
+    justify-content: center;
+}
+.hero{
+    width: 900px;
+    padding-top: 15px;
+}
+.marine{
+    background-color: white;
+    margin: 30px;
+    height: 500px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+
+}
+.left{
+    width: 250px;
+    padding-top: 30px;
+}
+.pan{
+    padding-top: 60px;
+}
+.large{
+    padding-right: 30px;
+}
+.over{
+    font-size: 40px;
+    color: rgb(119, 184, 119);
+    font-weight: bold;
+}
+.series{
+    font-size: 40px;
+    color: rgb(119, 184, 119);
+    font-weight: bold;
+    padding-top: 5px;
+    padding-right: 20px;
+}
+.screen{
+    font-size: 40px;
+    color: rgb(119, 184, 119);
+    font-weight: bold;
+    padding-left: 35px;
+}
+.area{
+    font-size: 40px;
+    color: rgb(119, 184, 119);
+    font-weight: bold;
+    padding-right: 10px;
+}
+.seven{
+    display: flex;
+    padding-top: 110px;
+    padding-left: 50px;
+}
+.finland{
+    border-radius: 50px;
+    width: 70px;
+    height: 30px;
+    background-color: black;
+}
+.port{
+    color: white;
+    font-size: 11px;
+}
+.jing{
+    color: black;
+    font-size: 11px;
+}
+.brin{
+    border-radius: 50px;
+    border-color: white;
+    width: 70px;
+    height: 30px;
+    background-color: whitesmoke;
+}
+.kakachi{
+    background-color: whitesmoke;
+    margin-top: 20px;
+    width: 1200px;
+    height: 400px;
+    display: flex;
+    margin-left: 80px;
+    justify-content: center;
+    padding-top: 70px;
+    gap: 90px;
+}
+.tsunade{
+    width: 400px;
+}
+.rolly{
+    padding-top: 70px;
+    padding-right: 50px;
+}
+.cube{
+    width: 80px;
+    padding-bottom: 15px;
+    padding-left: 70px;
+}
+.tures{
+    font-size: 30px;
+    font-weight: bold;
+}
+.price{
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.mend{
+    font-size: 15px;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+.trim{
+    color: blue;
+    padding-left: 60px;
+}
+.toad{
+    border-radius: 30px;
+    width: 40px;
+    height: 20px;
+    background-color: blue;
+    border-color: blue;
+    margin-left: 20px;
+}
+.wrist{
+    display: flex;
+    gap: 10px;
+    padding-top: 10px;
+}
+.tton{
+    width: 9px;
+    height: 9px;
+    background-color: black;
+    border-radius: 60px;
+    margin-left: 200px;
+}
+.esther{
+    display: flex;
+    gap: 10px;
+}
+.xseven{
+    padding-top: 50px;
+    padding-left: 180px;
+    width: 150px;
+}
+.finger{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 40px;
+}
+.feel{
+    width: 9px;
+    height: 9px;
+    background-color: bisque;
+    border-radius: 60px;
+    border-color: bisque;
+}
+.teat{
+    width: 9px;
+    height: 9px;
+    background-color: brown;
+    border-radius: 60px;
+    border-color: brown;
+}
+.feel{
+    width: 9px;
+    height: 9px;
+    background-color: blue;
+    border-radius: 60px;
+    border-color: blue;
+}
+.travel{
+    width: 9px;
+    height: 9px;
+    background-color: red;
+    border-radius: 60px;
+    border-color: red;
+}
+.pass{
+    width: 9px;
+    height: 9px;
+    background-color:firebrick;
+    border-radius: 60px;
+    border-color: firebrick;
+}
+.exam{
+    width: 9px;
+    height: 9px;
+    background-color: whitesmoke;
+    border-radius: 60px;
+    border-color: whitesmoke;
+}
+.jollof{
+    width: 9px;
+    height: 9px;
+    background-color: bisque;
+    border-radius: 60px;
+    border-color: bisque;
+    
+}
+.success{
+    width: 9px;
+    height: 9px;
+    background-color: lightcoral;
+    border-radius: 60px;
+    border-color: lightcoral;
+}
+.amen{
+    width: 9px;
+    height: 9px;
+    background-color: wheat;
+    border-radius: 60px;
+    border-color: wheat;
+}
+.fatigue{
+    padding-top: 10px;
+    color: red;
+    padding-left: 250px;
+}
+.route{
+    font-size: 20px;
+    padding-left: 180px;
+    font-weight: bold;
+}
+.tiger{
+    padding-left: 230px;
+    padding-top: 10px;
+}
+.swap{
+    background-color: blue;
+    border-color: blue;
+    border-radius: 60px;
+    width: 40px;
+    height: 25px;
+    margin-left: 250px;
+    color: white;
+    margin-top: 10px;
+}
+.precious{
+    color: blue;
+    padding-top: 10px;
+    padding-left: 230px;
+    margin-bottom: 100px;
+}
+.due{
+    width: 9px;
+    height: 9px;
+    background-color: grey;
+    border-radius: 60px;
+    border-color: grey;
+    margin-left: 250px;
+}
+.bark{
+    width: 9px;
+    height: 9px;
+    background-color: whitesmoke;
+    border-radius: 60px;
+    border-color: whitesmoke;
+}
+.cutton{
+    width: 9px;
+    height: 9px;
+    background-color: grey;
+    border-radius: 60px;
+    border-color: grey;
+    margin-left: 250px;
+}
+.sake{
+    width: 9px;
+    height: 9px;
+    background-color: whitesmoke;
+    border-radius: 60px;
+    border-color: whitesmoke;
+}
+.seal{
+    width: 9px;
+    height: 9px;
+    background-color: bisque;
+    border-radius: 60px;
+    border-color: bisque;
+}
+.patient{
+    padding-top: 30px;
+}
+.href{
+    width: 70px;
+    height: 40px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+
+
+.pods{
+    color: white;
+}
+.purs_1{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.gen{
+    padding-left: 15px;
+}
+.picture{
+    padding-left: 25px;
+}
+.rator{
+    padding-left: 25px;
+    color: red;
+}
+.traitor{
+    padding-left: 15px;
+}
+.com{
+    padding-left: 7px;
+}
+.ocean{
+    background-color: whitesmoke;
+    width: 90%;
+    height: 430px;
+    margin-left: 50px;
+    margin-top: 30px;
+    padding-top: 30px;
+    border-radius: 15px;
+}
+.fountain{
+    background-image: url(images/compare_airpods.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    background-size: 310px;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.plain{
+    font-weight: bolder;
+    font-size: 75px;
+    padding-top: 130px;
+    padding-left: 20px;
+}
+.thun{
+    font-weight: bolder;
+    padding-left: 110px;
+    padding-top: 15px;
+}
